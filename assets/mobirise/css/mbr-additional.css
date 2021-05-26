@@ -196,3 +196,26 @@
 #dropdown-menu-2btn-s .navbar-toggler {
   color: #ffffff;
 }
+#dropdown-menu-2btn-u .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-u .nav .link,
+#dropdown-menu-2btn-u .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+}
+#dropdown-menu-2btn-u .navbar,
+#dropdown-menu-2btn-u .dropdown-menu {
+  background: #333333;
+}
+#dropdown-menu-2btn-u .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-u .dropdown-menu a:hover,
+#dropdown-menu-2btn-u .dropdown-menu a:focus {
+  background: #292929;
+}
+#dropdown-menu-2btn-u .navbar-toggler {
+  color: #ffffff;
+}
+#content1-w P {
+  font-size: 22px;
+}
